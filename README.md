@@ -5,4 +5,4 @@
 
 ## Preview
 
-![Website Preview](https://cdn.hackclub.com/019e2947-a75d-7098-931a-81734fea8a50/screenshot.png)
+![Website Preview](<img width="935" height="504" alt="image" src="https://github.com/user-attachments/assets/1c6f2bba-8917-4852-8232-8616e78e80bf" />)
