@@ -5,4 +5,3 @@
 
 ## Preview
 
-![Website Preview](blob:https://www.image2url.com/0e654e6e-5ac1-459d-8f27-29616aa2497c)
